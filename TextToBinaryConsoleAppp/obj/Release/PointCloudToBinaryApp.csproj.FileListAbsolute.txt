@@ -1,0 +1,10 @@
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\PointCloudToBinaryApp.csprojAssemblyReference.cache
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\TextToBinaryConsoleAppp.Properties.Resources.resources
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\PointCloudToBinaryApp.csproj.GenerateResource.cache
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\PointCloudToBinaryApp.csproj.CoreCompileInputs.cache
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\TextToBinaryConsoleAppp.exe
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\TextToBinaryConsoleAppp.pdb
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\bin\Release\TextToBinaryConsoleAppp.exe.config
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\bin\Release\TextToBinaryConsoleAppp.exe
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\bin\Release\TextToBinaryConsoleAppp.pdb
+C:\Users\KanatA\source\repos\TextToBinaryConsoleAppp\TextToBinaryConsoleAppp\obj\Release\TextToBinaryConsoleAppp.Form1.resources
